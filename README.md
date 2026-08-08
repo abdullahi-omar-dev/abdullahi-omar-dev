@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abdullahi Omar 👋
 
-<!--
-**abdullahi-omar-dev/abdullahi-omar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend Developer | JavaScript & React
 
-Here are some ideas to get you started:
+I'm a frontend developer focused on building modern, responsive, and user-friendly web applications with **JavaScript and React**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm learning **backend development** to become a **Full-Stack Software Engineer**. After building a strong foundation across the full stack, my goal is to move into **AI Engineering**.
+
+### 🛠️ Skills
+
+* **JavaScript**
+* **React**
+* HTML & CSS
+* Git & GitHub
+* Responsive Web Development
+
+### 🚀 Currently Learning
+
+* Backend Development
+* APIs & Databases
+* Full-Stack Software Engineering
+
+### 🎯 Roadmap
+
+**Frontend Developer → Full-Stack Software Engineer → AI Engineer**
+
+I enjoy learning by building projects, solving problems, and continuously improving my development skills.
