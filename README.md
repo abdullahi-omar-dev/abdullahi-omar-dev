@@ -13,12 +13,7 @@ Currently, I'm learning **backend development** to become a **Full-Stack Softwar
 * HTML & CSS
 * Git & GitHub
 * Responsive Web Development
-
-### 🚀 Currently Learning
-
-* Backend Development
-* APIs & Databases
-* Full-Stack Software Engineering
+  
 
 ### 🎯 Roadmap
 
